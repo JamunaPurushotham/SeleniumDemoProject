@@ -30,7 +30,7 @@ public class CreateCampaign extends BaseClass {
 	//@Parameters("browser")
 	@Test()
 
-	public void createCampaignWithAllFieldsTest() throws InterruptedException, IOException {
+	public void createCampaignWithAllFieldTest() throws InterruptedException, IOException {
 
 		// generating random number using java utility
 		JavaUtility jUtil = new JavaUtility();

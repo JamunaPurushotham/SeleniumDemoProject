@@ -41,7 +41,7 @@ public class Login extends BaseClass{
 		System.out.println(UserName);
 		System.out.println(Password);
 
-		String expectedURL = "http://49.249.28.218:8098/dashbod";
+		String expectedURL = "http://49.249.28.218:8098/dashboard";
 
 		// Cross browser testing
 		WebDriver driver = null;
