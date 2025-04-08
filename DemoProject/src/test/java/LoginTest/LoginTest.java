@@ -22,7 +22,7 @@ import genericBaseClassUtility.BaseClass;
 import genericListenerUtility.ListenerImp;
 
 //@Listeners(ListenerImp.class)
-public class Login extends BaseClass{
+public class LoginTest extends BaseClass{
 
 	//@Parameters("browser")
 	//@Test(groups = { "RegressionTesting" })

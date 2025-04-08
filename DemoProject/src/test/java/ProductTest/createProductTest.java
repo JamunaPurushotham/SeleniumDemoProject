@@ -28,7 +28,7 @@ import genericListenerUtility.ListenerImp;
 
 
 //@Listeners(ListenerImp.class)
-public class createProduct extends BaseClass{
+public class createProductTest extends BaseClass{
 
 //	@Parameters("browser")
 	@Test (groups= {"SmokeTesting"})

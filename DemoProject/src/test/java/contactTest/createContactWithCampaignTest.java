@@ -29,7 +29,7 @@ import genericBaseClassUtility.BaseClass;
 import genericListenerUtility.ListenerImp;
 
 //@Listeners(ListenerImp.class)
-public class createContactWithCampaign extends BaseClass {
+public class createContactWithCampaignTest extends BaseClass {
 
 	//@Parameters("browser")
 	@Test(groups = { "IntegrationTesting" })
